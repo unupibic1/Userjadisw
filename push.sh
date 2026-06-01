@@ -28,11 +28,11 @@
 #
 # ─────────────────────────────────────────────────────────────
 
-USER="hitlabmodv2"
-REPO="ReadSwDika_WhiskeySockets"
+USER="unupibic1"
+REPO="Userjadisw"
 # DEFAULT_BRANCH di-auto-detect realtime dari GitHub (lihat detect_default_branch).
 # Nilai di sini cuma fallback kalau koneksi ke GitHub bermasalah.
-DEFAULT_BRANCH="ReadSwDika_WhiskeySockets_2"
+DEFAULT_BRANCH="ReadSwDika_WhiskeySockets_5"
 
 # Versi script ini — dipakai untuk cek update otomatis
 SCRIPT_VERSION="1.1"
@@ -1229,7 +1229,7 @@ while true; do
 done
 
 # Pilih repo tujuan push dari daftar GitHub (bisa Enter untuk skip)
-REPO="ReadSwDika_WhiskeySockets"
+REPO="Userjadisw"
 
 # ── Startup: banner + bar 0% ──
 startup_begin
